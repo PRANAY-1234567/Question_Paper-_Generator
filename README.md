@@ -4,4 +4,5 @@
 
 This project is a Python-based Question Paper Generator designed to automate the creation of examination papers.
 It allows educators to input questions categorized by topic, difficulty level, and marks, and then generates randomized or balanced question papers based on predefined criteria.
-The system ensures fair distribution of questions, reduces manual workload, and enhances efficiency in academic assessments. The project uses core Python with file handling, object-oriented programming, and optionally integrates a GUI or database for better usability.
+The system ensures fair distribution of questions, reduces manual workload, and enhances efficiency in academic assessments.
+The project uses core Python with file handling, object-oriented programming, and optionally integrates a GUI or database for better usability.
